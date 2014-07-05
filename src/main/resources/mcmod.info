@@ -1,0 +1,16 @@
+[
+{
+  "modid": "hotgreenfire",
+  "name": "Hot Green Fire",
+  "description": "A simple mod that adds a new Flint & Steel capable of creating Hot Green Fire, fire like it was in the olden days.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["TehSomeLuigi"],
+  "credits": "TehSomeLuigi: mod dev, Minecraft/Mojang: Original Texture, Forge & FML Teams: creating Forge and FML",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
