@@ -17,7 +17,7 @@ buildscript {
 
 apply plugin: 'forge'
 
-version = "1.7.10-1.0.0"
+version = "1.7.10-1.0.1"
 group= "tehsomeluigi.hotgreenfire" // http://maven.apache.org/guides/mini/guide-naming-conventions.html
 archivesBaseName = "hotgreenfire"
 
@@ -50,7 +50,7 @@ processResources
 
     // replace stuff in mcmod.info, nothing else
     from(sourceSets.main.resources.srcDirs) {
-        include 'mcmod.info'
+        include 'mcmod.info', 'tehsomeluigi/hotgreenfire/reference/Reference'
                 
         // replace version and mcversion
         expand 'version':project.version, 'mcversion':project.minecraft.version

@@ -1,0 +1,7 @@
+// Hot Green Fire Mod, English/GB
+
+tile.hotgreenfire:hotgreenfire.name=Hot Green Fire
+tile.hotgreenfire:hotgreenfire.tooltip=It's hot, and it's green!
+
+item.hotgreenfire:hotgreenfns.name=Hot Green Flint and Steel
+item.hotgreenfire:hotgreenfns.tooltip=A Flint and Steel that possesses powers like no other modern Flint and Steel
